@@ -1,9 +1,9 @@
 ---
 ---
 
-# 华中科技大学 狼牙战队 
+# 华南师范大学 PIONEER 
 
-华中科技大学RoboMaster团队（狼牙战队）是华中科技大学启明学院创新团队之一，是一个以参加RoboMaster机器人比赛为主，其余竞赛为辅，以培养队员全面综合水平为目标的综合型团队。
+华南师范大学PIONEER战队一个以参加RoboMaster机器人比赛为主，其余竞赛为辅，以培养队员全面综合水平为目标的综合型团队。
 
 {%
   include button.html
@@ -28,7 +28,7 @@
 {% include section.html %}
 
 ## 近期赛程
-**RoboMaster 2025 联盟赛 西北站** 3月13日 15:00 抽签仪式后更新赛程信息。
+**RoboMaster 2025 联盟赛 广西站** 3月13日 15:00 抽签仪式后更新赛程信息。
 
 {% include list.html data="events" component="events" style="rich" %} 
 {% include section.html %}

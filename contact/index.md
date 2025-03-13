@@ -7,10 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}联系我们
 
-狼牙战队欢迎所有热爱机器人的同学加入！
+PIONEER欢迎所有热爱机器人的同学加入！
 
-湖北省武汉市洪山区珞喻路 1037 号
-华中科技大学智能互联网湖北省重点实验室
+广东省广州市番禺区小谷围街道
+华南师范大学大学城校区理4栋103
 
 {%
   include button.html
